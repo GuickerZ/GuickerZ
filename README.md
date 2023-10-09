@@ -3,7 +3,7 @@
 - 🖥️ Atualmente, estou estudando outras linguagens :D
 - 🔨 Metas pra 2023: Desenvolver vários projetos para colocar no meu portfólio
 - 📫 Contate-me pelo Email: guimatias172@gmail.com
-- 📰 Veja meu <a href="https://guicker.com/" target="__blank">Portfólio</a>
+- 📰 Veja meu <a href="https://guicker.site/portfolio" target="__blank">Portfólio</a>
 
 ## Habilidades e tecnologias
 
