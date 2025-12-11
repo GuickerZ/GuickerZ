@@ -1,11 +1,12 @@
+
 <div align="center">
 
-<!-- Header animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<!-- Banner substituído por uma badge estável -->
+<img width="100%" src="https://img.shields.io/badge/GuickerZ-Desenvolvedor%20Back--End-7B68EE?style=for-the-badge&logo=github" alt="Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Matias!+%F0%9F%91%8B;Back-End+Developer+%F0%9F%92%BB;Node.js+Enthusiast+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;API+Architect+%F0%9F%94%A7)](https://git.io/typing-svg)
-
-### 🚀 Desenvolvedor Back-End | Full-Stack Developer
+<!-- Texto de apresentação (substitui o Typing SVG que estava em serviço externo) -->
+### Olá, eu sou Guilherme Matias! 👋  
+#### 🚀 Desenvolvedor Back-End | Full-Stack Developer
 
 <p>
   <a href="https://github.com/GuickerZ">
@@ -25,13 +26,14 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GuickerZ&color=7B68EE&style=for-the-badge" alt="Profile Views"/>
+<!-- Visualização de visitas: substituído por badge genérica (serviço antigo pode dar erro) -->
+<img src="https://img.shields.io/badge/Profile%20Views-Visitas-7B68EE?style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
+## Sobre Mim
 
 ```javascript
 const guicker = {
@@ -39,14 +41,14 @@ const guicker = {
     localização: "Garanhuns, PE 🇧🇷",
     cargo: "Desenvolvedor Back-End",
     formação: "Técnico em Informática - IFPE Garanhuns",
-    
+
     experiência: [
         "APIs RESTful com Node.js/Express",
         "Integrações com Gateways de Pagamento (Mercado Pago, EfiPay)",
         "Bots & Automações (WhatsApp, Telegram, Discord)",
         "Desenvolvimento Full-Stack com React/Next.js"
     ],
-    
+
     curiosidade: "Comecei a programar entre os 10 e 12 anos! 🎮"
 };
 ```
@@ -104,33 +106,35 @@ const guicker = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuickerZ&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuickerZ&layout=compact&hide_border=true&title_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</div>
+  <!-- Substituição do github-readme-stats por: (1) gráfico oficial de contribuições do GitHub e (2) badge do top language via Shields -->
+  https://github.com/users/GuickerZ/contributions
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=GuickerZ&theme=tokyonight_duo&hide_border=true&stroke=7B68EE&ring=7B68EE&fire=7B68EE&currStreakLabel=7B68EE&background=0D1117" alt="Streak Stats"/>
-</div>
-
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuickerZ&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <p>
+    <!-- Top language badge -->
+    https://img.shields.io/github/languages/top/GuickerZ?color=7B68EE&logo=github
+    <!-- Último commit -->
+    https://img.shields.io/github/last-commit/GuickerZ?color=7B68EE
+    <!-- Repositórios públicos -->
+    https://img.shields.io/github/repos/GuickerZ?color=7B68EE
+  </p>
 </div>
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 🏆 Projetos em Destaque
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuickerZ&bg_color=0d1117&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <!-- Substitui o pin dinâmico por um cartão simples com link e badges -->
+  https://opengraph.githubassets.com/1/GuickerZ/VSC-Portfolio
+  <p>
+    https://img.shields.io/github/stars/GuickerZ/VSC-Portfolio?color=7B68EE
+    https://img.shields.io/github/issues/GuickerZ/VSC-Portfolio?color=7B68EE
+  </p>
 </div>
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contribuições (Snake)
 
 <div align="center">
   <picture>
@@ -138,16 +142,6 @@ const guicker = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuickerZ/GuickerZ/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GuickerZ/GuickerZ/output/github-contribution-grid-snake-dark.svg">
   </picture>
-</div>
-
----
-
-## 💼 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/GuickerZ/VSC-Portfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=GuickerZ&repo=VSC-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE" alt="VSC-Portfolio"/>
-  </a>
 </div>
 
 ---
@@ -170,20 +164,16 @@ const guicker = {
 
 <div align="center">
 
-```
-📧 Email: guimatias172@gmail.com
-💼 LinkedIn: linkedin.com/in/guicker
-🐙 GitHub: github.com/GuickerZ
+📧 Email: guimatias172@gmail.com  
+💼 LinkedIn: linkedin.com/in/guicker  
+🐙 GitHub: github.com/GuickerZ  
 📷 Instagram: @guilhermematiasss
-```
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/WhatsApp-Automações-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</p>
+https://img.shields.io/badge/WhatsApp-Automações-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+https://img.shields.io/badge/Telegram-Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
+https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white
 
 </div>
 
@@ -191,10 +181,10 @@ const guicker = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+> "Código limpo é como poesia: claro, elegante e fácil de entender."
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+https://img.shields.io/badge/---Footer-7B68EE?style=for-the-badge
 
 </div>
