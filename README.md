@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Matias!+%F0%9F%91%8B;Back-End+Developer+%F0%9F%92%BB;Node.js+Enthusiast+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;API+Architect+%F0%9F%94%A7)](https://git.io/typing-svg)
 
-<img src="https://github.com/GuickerZ.png" width="150px" style="border-radius: 50%"/>
-
 ### 🚀 Desenvolvedor Back-End | Full-Stack Developer
 
 <p>
